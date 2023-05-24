@@ -1,7 +1,11 @@
-### Hi there 👋
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedruuv&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedruuv&layout=compact&theme=dark)](https://github.com/pedruuv/github-readme-stats)
+<h1 align="center">Hi, I'm Pedro Vitor!</h1>
+<br>
+<br>
+
+## :chart_with_upwards_trend: My GitHub Status:
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedruuv&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedruuv&layout=compact&theme=monokai)](https://github.com/pedruuv/github-readme-stats)
 
  ## :hammer_and_wrench: Languages and Tools:
 <div style="display: inline_block">
@@ -13,7 +17,7 @@
        
 </div><br>
 
-## Connect with me  
+## :speech_balloon: Connect with me  
 <div>
 <a href="https://github.com/pedruuv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -25,11 +29,8 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
+  
+  
 
-  
-  
-![](giphy.gif)
