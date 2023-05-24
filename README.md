@@ -1,4 +1,4 @@
-
+<img width="100%" src="yoriichi-tsugikuni-yoriichi.gif">
 <h1 align="center">Hi, I'm Pedro Vitor!</h1>
 <br>
 <br>
