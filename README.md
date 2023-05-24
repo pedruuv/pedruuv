@@ -1,6 +1,5 @@
 <img width="100%" src="yoriichi-tsugikuni-yoriichi.gif">
 <h1 align="center">:wave: Hi, I'm Pedro Vitor!</h1>
-<br>
 
 ## :chart_with_upwards_trend: My GitHub Status:
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedruuv&show_icons=true&theme=monokai)
