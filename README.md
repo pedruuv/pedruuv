@@ -1,4 +1,3 @@
-<img width="100%" src="yoriichi-tsugikuni-yoriichi.gif">
 <h1 align="center">:wave: Hi, I'm Pedro Vitor!</h1>
 
 ## :chart_with_upwards_trend: My GitHub Status:
@@ -7,10 +6,8 @@
 
  ## :hammer_and_wrench: Languages and Tools:
 <div style="display: inline_block">
-  <img align="center" alt="Pedro-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+ <img align="center" alt="Pedro-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Pedro-go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
    <img align="center" alt="Pedro-postgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Pedro-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
        
