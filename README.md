@@ -1,17 +1,31 @@
-# 💫 About Me:
-Olá, sou Pedro Vitor! Estudante de Engenharia de Software apaixonado por desafios e entusiasta de Cybersecurity. Entre linhas de código em C/C++, Python e Java, busco não apenas soluções eficientes, mas também explorar a arte da programação.
+# 💫 Sobre Mim
+Olá, sou Pedro Vitor! Estudante de Engenharia de Software apaixonado por desenvolvimento backend e arquitetura de microsserviços. Tenho experiência com Java, .NET, Kafka e Docker, e adoro resolver desafios complexos criando sistemas escaláveis e seguros.
 
-Além do mundo digital, encontro inspiração no desenho e na leitura, acreditando que a criatividade é a essência da inovação. Este é meu espaço para compartilhar projetos, experiências e histórias, onde a paixão pela Engenharia de Software se entrelaça com a expressão artística. Bem-vindo ao meu universo no GitHub, onde cada commit é um passo nessa jornada de descobertas! 🚀
+Além do código, sou entusiasta de Cybersecurity, aplicando boas práticas para proteger dados e garantir a integridade das aplicações. Busco sempre aprender mais, seja em projetos pessoais, estudos acadêmicos ou colaborando em comunidades de tecnologia.
 
+Este espaço reúne meus projetos e aprendizados, onde cada commit representa um passo na minha jornada para me tornar um profissional completo e inovador. 🚀
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
+---
+
+# 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Kafka](https://img.shields.io/badge/apache_kafka-%2314354C.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+---
+
+# 🚀 Projetos em Destaque
+- **Sistema de rastreamento de entregas**  
+  Backend desenvolvido com Java, Spring Boot e Kafka, utilizando Docker para containerização e orquestração via Docker Compose. Simula entregas em tempo real com processamento assíncrono de eventos.
+
+- **API REST segura com .NET**  
+  Construção de APIs RESTful com .NET, focando em autenticação, autorização e melhores práticas de segurança para proteger dados sensíveis.
+
+---
+
+# 📊 Estatísticas do GitHub
 ![](https://github-readme-stats.vercel.app/api?username=pedruuv&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedruuv&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedruuv&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pedruuv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=pedruuv&icon=0&color=0)](https://visitcount.itsvg.in)
