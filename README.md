@@ -21,6 +21,9 @@ Este espaço reúne meus projetos e aprendizados, onde cada commit representa um
 
 ---
 
+# 🧠 Prática com Algoritmos
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pedruuv/)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/impedrovgurgel)  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/pedruuv)
+
 # 📊 Estatísticas do GitHub
 ![](https://github-readme-stats.vercel.app/api?username=pedruuv&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedruuv&theme=gotham&hide_border=false)<br/>
@@ -28,4 +31,3 @@ Este espaço reúne meus projetos e aprendizados, onde cada commit representa um
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=pedruuv&icon=0&color=0)](https://visitcount.itsvg.in)
