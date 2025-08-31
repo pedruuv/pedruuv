@@ -1,7 +1,5 @@
 # 💫 Sobre Mim
-Olá, sou Pedro Vitor! Estudante de Engenharia de Software apaixonado por desenvolvimento backend e arquitetura de microsserviços. Tenho experiência com Java, .NET, Kafka e Docker, e adoro resolver desafios complexos criando sistemas escaláveis e seguros.
-
-Além do código, sou entusiasta de Cybersecurity, aplicando boas práticas para proteger dados e garantir a integridade das aplicações. Busco sempre aprender mais, seja em projetos pessoais, estudos acadêmicos ou colaborando em comunidades de tecnologia.
+Olá, sou Pedro Vitor! Estudante de Engenharia de Software apaixonado por desenvolvimento backend e arquitetura de microsserviços. Tenho experiência com Java, Kafka e Docker, e adoro resolver desafios complexos criando sistemas escaláveis e seguros.
 
 Este espaço reúne meus projetos e aprendizados, onde cada commit representa um passo na minha jornada para me tornar um profissional completo e inovador. 🚀
 
@@ -15,9 +13,6 @@ Este espaço reúne meus projetos e aprendizados, onde cada commit representa um
 # 🚀 Projetos em Destaque
 - **Sistema de rastreamento de entregas**  
   Backend desenvolvido com Java, Spring Boot e Kafka, utilizando Docker para containerização e orquestração via Docker Compose. Simula entregas em tempo real com processamento assíncrono de eventos.
-
-- **API REST segura com .NET**  
-  Construção de APIs RESTful com .NET, focando em autenticação, autorização e melhores práticas de segurança para proteger dados sensíveis.
 
 ---
 
