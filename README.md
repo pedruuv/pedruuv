@@ -1,28 +1,26 @@
-# 💫 Sobre Mim
-Olá, sou Pedro Vitor! Estudante de Engenharia de Software apaixonado por desenvolvimento backend e arquitetura de microsserviços. Tenho experiência com Java, Kafka e Docker, e adoro resolver desafios complexos criando sistemas escaláveis e seguros.
+# Pedro Vitor Gurgel
 
-Este espaço reúne meus projetos e aprendizados, onde cada commit representa um passo na minha jornada para me tornar um profissional completo e inovador. 🚀
+Software engineer working on backend systems — REST APIs with Spring Boot, event-driven flows with Kafka, and PostgreSQL as the data layer.
 
----
+Fortaleza, CE · [LinkedIn](https://www.linkedin.com/in/pedro-vitor-gurgel) · [LeetCode](https://leetcode.com/u/pedruuv/) · [pedruuvtab@gmail.com](mailto:pedruuvtab@gmail.com)
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kafka](https://img.shields.io/badge/apache_kafka-%2314354C.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## Stack
 
----
+**Languages** — Java, JavaScript, HTML, CSS <br>
+**Backend** — Spring Boot, JPA, Hibernate, REST APIs, microservices, DDD <br>
+**Data & Infra** — PostgreSQL, Redis, Caffeine, Apache Kafka, Docker, Docker Compose, Git <br>
+**Testing** — integration tests, E2E, Testcontainers
 
-# 🚀 Projetos em Destaque
-- **Sistema de rastreamento de entregas**  
-  Backend desenvolvido com Java, Spring Boot e Kafka, utilizando Docker para containerização e orquestração via Docker Compose. Simula entregas em tempo real com processamento assíncrono de eventos.
+## Projects
 
----
+**Url-Shortener** — Scalable URL shortener with Redis caching, Kafka-driven analytics and PostgreSQL storage.
 
-# 🧠 Prática com Algoritmos
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pedruuv/)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/impedrovgurgel)  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/pedruuv)
+**Sistema-de-rastreamento-de-entregas** — Real-time delivery tracking backend, with async event processing over Kafka orchestrated through Docker Compose.
 
-# 📊 Estatísticas do GitHub
-![](https://github-readme-stats.vercel.app/api?username=pedruuv&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedruuv&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedruuv&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Flights-Reservation** — Flight booking API for managing flights, secured with Spring Security and PostgreSQL.
+
+**FinTrack** — Personal finance backend for cash flow and expense tracking.
 
 ---
 
+Software Engineering at Estácio de Sá, graduating 2027. Advanced English.
